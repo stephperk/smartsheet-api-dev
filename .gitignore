@@ -1,0 +1,7 @@
+__pycache__
+__init__.py
+ssenv
+config
+settings.py
+*.csv
+
